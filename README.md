@@ -18,7 +18,7 @@ dapatkan statistik dan saran tuning (bias, RMS, drift, overshoot, trim thruster,
 Butuh Python 3.9+ dan Tkinter (untuk jendela).
 
 ```bash
-git clone <url-repo-ini>
+git clone https://github.com/ItsShiroNeko/kraken-log-viewer.git
 cd kraken-log-viewer
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e .
